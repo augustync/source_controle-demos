@@ -8,10 +8,20 @@
 
 ### Local
 #### Working directory
-Contain 
+Contain project files, but not only, however git is aware of them
 
-#### Staging Area 
+#### Staging Area
+Its where git queues all changes which werent commited yet
 
 #### Repository (.git folder)
-### Remote 
+Its where git queues all commits
+Commits - Git history.
 
+### Remote
+Its the last step in the basic git repository state
+
+### Master Branch
+Its the last concept in the git
+Branches works like the others sorces control changes
+
+In Git branches contain commits , the default branch at the bgining its MASTER
